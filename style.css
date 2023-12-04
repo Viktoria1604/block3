@@ -196,7 +196,6 @@ body {
 
 .title-section {
   display: flex;
-  vertical-align: middle;
   height: 40px;
   width: 304px;
   margin-bottom: 12px;
@@ -394,7 +393,7 @@ body {
     height: 307px;
     border-radius: 6px;
   }
-  
+
   .about-us__text-block {
     display: flex;
     flex-direction: column;
